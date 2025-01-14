@@ -1,0 +1,38 @@
+/*
+         XZLTC STUDIO FOR CSS
+     2024.4.4  BY HUANGDASTUDIO
+HUANGDASTUDIO 'S WEDSITE:HTTPS://HUANGDA.FUN/ 
+*/
+
+body{
+    font-family: '宋体';
+    background-color: #5aaab7;
+  }
+  
+  a{
+    color: #000;
+  }
+  
+  #menu {
+   position: absolute;
+   z-index: 9;
+   width: 220px;
+   text-align: center;
+   height: 642px;
+   background: url('../img/1.png') no-repeat center center / 100% 100%;
+   
+  
+  
+  }
+  
+  .zy{
+    background: url('../img/2.png') no-repeat center center / 100% 100%;
+    width: 60%;
+    height: 80%;
+  
+  }
+  
+  .zy img{
+    width: 45%;
+    height: auto;
+  }
